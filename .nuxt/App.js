@@ -6,7 +6,7 @@ import NuxtError from './components/nuxt-error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
 import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
-import '../node_modules/_buefy@0.9.19@buefy/dist/buefy.css'
+import '../node_modules/_buefy@0.9.20@buefy/dist/buefy.css'
 
 import _6f6c098b from '../layouts/default.vue'
 
